@@ -22,6 +22,8 @@ namespace Practice
             Form2 f2 = new Form2();
             f2.Show();
             this.Hide(); // Hide the current form
+
+            // dito gagwa ng new features
         }
     }
 }
